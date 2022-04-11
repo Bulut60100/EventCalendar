@@ -6,14 +6,14 @@
 
 #Acount Service
 1. accountService klasörü içine girerek docker-compose up --build komutu ile accountService yi ayağa kaldır.
-2. Docker exec -it accountservice_account_1 sh komutu ile docker containeri içerisine gir.
+2. Docker exec -it accountservice_account_1(container adı) sh komutu ile docker containeri içerisine gir.
 3. php artisan migrate komutu ile veritabanını içeri aktar. <br>
 
 bu 3 adımı uyguladıktan sonra accountService miz hazır şimdi calendarServiceyi ayağa kaldıracağız
 
 #Calendar Service
 1. calendarService klasörü içine girerek docker-compose up --build komutu ile CalendarService yi ayağa kaldır.
-2. docker exec -it calendarservice_calendar_1 komutu ile docker containeri içerisine gir.
+2. docker exec -it calendarservice_calendar_1(container adı) komutu ile docker containeri içerisine gir.
 3. php artisan migrate komutu ile veritabanını içeri aktar. <br>
 
 ve accountService mizde hazır şimdi arayüzü ayağı kaldıracağız.
