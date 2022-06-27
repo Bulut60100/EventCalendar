@@ -45,9 +45,7 @@ http://localhost:8001/api/event/{id} <br>
 //Event güncelleme. title, description, date(unixtime), userid. METHOD: PUT <br>
 http://localhost:8001/api/event/{id} <br>
 //Event sil. METHOD: DELETE <br>
-<br><br>
-#Anahtar Kodu<br>
-gAAAAABiMFMZ1OWEeJZ0f9Kt4b4ULUDeGWzOEW1ib0H_EdZo1Gpla1k5_rgqcspwMt_C5oZVhSLjRrUo8DgefzJXwYirCPbLu3quHNgVJgst8tsjuFLrvNUPemYVmePIs2XrMLV4H3cicOfUy3XMhXgtOX78LTZtbzKvnxitUCCDyZ_Qc-cIzxAJJvT4NZJ-kaoOGLn3EAP9HYIR9aEW4zTSCIscv7Msm1q2NITnAxfmQn5eQkp4xfWrBPxFP5Yevv30cE0a_qX4
+
 
 
 
